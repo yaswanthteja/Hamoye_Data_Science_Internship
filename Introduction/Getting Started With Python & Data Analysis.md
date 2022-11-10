@@ -5,7 +5,7 @@
     - Data is the core of data science, hence, scoping and collecting the right data for a project is very crucial to achieving the required results.
    - To collect data, the source it will be collected from has to be identified. Downloading or crawling from the internet, questionnaires and surveys are some common methods used to obtain data.  
 
-<img  src=" " alt=" "   width="400">
+<img   src="https://github.com/yaswanthteja/Hamoye_Data_Science_Internship/blob/main/images/1.2%20-%20Complete%20Data%20Science%20Pipeline.png" alt="1"   width="600">
 
 - The next step in the pipeline involves wrangling, reviewing and transforming the data from a messy/raw form to a more appropriate state for ease of use. 
   - Although this can be time-consuming, it is very essential to clean the data extensively since machine learning models are only as good as the data provided - garbage in garbage out. 
