@@ -57,3 +57,28 @@ Gradient descent and coordinate descent algorithm
 Gradient descent is an optimization algorithm that minimizes a cost function by specifying the direction to move towards to obtain a local or global minima. This is done by initially starting with random values then iteratively updating the values until the minimum cost is obtained.  A learning rate is usually chosen to determine the step size to be taken for each iteration. It is important to carefully select this parameter because, if a small step is chosen, it will take a long time to converge to the minimum cost while if too large, it can result in an overshoot surpassing the location of the minimum cost.
 
 [All Codes](https://gist.github.com/HamoyeHQ/d44bece91e108d0fb6dda16d61559e86)
+
+
+- # Simple Linear Regression.py
+```
+
+df=pd.read_excel('https://archive.ics.uci.edu/ml/machine-learning-databases/0024
+                  2/ENB2012_data.xlsx')
+#rename columns
+column_names = {'X1':'Relative_Compactness', 'X2': 'Surface_Area', 
+                'X3':  'Wall_Area', 'X4': 'Roof_Area', 'X5': 'Overall_Height',
+                'X6': 'Orientation', 'X7': 'Glazing_Area', 
+                'X8': 'Glazing_Area_Distribution', 
+                'Y1': 'Heating_Load', 'Y2': 'Cooling_Load'}
+
+
+df = df.rename(columns=column_names)
+#select a sample of the dataset
+simple_linear_reg_df = df[[Relative_Compactness, 'Cooling_Load']]
+                       .sample(15, random_state=2)
+#regression plot
+sns.regplot(x="Relative_Compactness", y="Cooling_Load",
+            data=simple_linear_reg_df)
+```
+
+
