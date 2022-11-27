@@ -15,3 +15,4 @@ Detection, Practical Time Series Analysis and a capstone project.
 
 - [Pandas](https://github.com/yaswanthteja/Hamoye_Data_Science_Internship/blob/main/Introduction/Pandas%20.md)
 
+# Stage B
