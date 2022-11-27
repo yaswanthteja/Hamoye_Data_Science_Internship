@@ -16,3 +16,9 @@ Detection, Practical Time Series Analysis and a capstone project.
 - [Pandas](https://github.com/yaswanthteja/Hamoye_Data_Science_Internship/blob/main/Introduction/Pandas%20.md)
 
 # Stage B
+
+- [Simple Linear Regression ](https://github.com/yaswanthteja/Hamoye_Data_Science_Internship/tree/main/Simple%20Linear%20Regression%20Model)
+- [Multiple Linear Regression ](https://github.com/yaswanthteja/Hamoye_Data_Science_Internship/tree/main/Multiple%20Linear%20Regression)
+
+
+
