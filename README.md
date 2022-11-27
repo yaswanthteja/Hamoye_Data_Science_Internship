@@ -14,11 +14,17 @@ Detection, Practical Time Series Analysis and a capstone project.
 - [Introduction to NumPy & Creating Arrays](https://github.com/yaswanthteja/Hamoye_Data_Science_Internship/blob/main/Introduction/NumPy%20Array%20and%20Vectorization.md)
 
 - [Pandas](https://github.com/yaswanthteja/Hamoye_Data_Science_Internship/blob/main/Introduction/Pandas%20.md)
+- [Project](https://github.com/yaswanthteja/HDSC-Introduction-to-Python-for-machine-learning)
 
 # Stage B
 
 - [Simple Linear Regression ](https://github.com/yaswanthteja/Hamoye_Data_Science_Internship/tree/main/Simple%20Linear%20Regression%20Model)
 - [Multiple Linear Regression ](https://github.com/yaswanthteja/Hamoye_Data_Science_Internship/tree/main/Multiple%20Linear%20Regression)
+- [Penalization Methods](https://github.com/yaswanthteja/Hamoye_Data_Science_Internship/tree/main/Penalization%20Methods)
+- [Non Linear Regression](https://github.com/yaswanthteja/Hamoye_Data_Science_Internship/tree/main/Non-Linear%20Regression)
+
+
+- [Project](https://github.com/yaswanthteja/HDSC_Predicting_Energy_Efficiency_of_Buildings)
 
 
 
