@@ -31,6 +31,36 @@ Some datasets can be high dimensional with a very high number of features and so
 This is simply a combination of the L1 and L2 penalties from ridge and lasso regression. This method arose from the need to overcome the limitations of lasso regression. It regularizes and performs feature selection simultaneously by initially finding the optimal values of the coefficients as in ridge then performs a shrinkage.
 
 
+- # Comparing the Effects of regularisation.py
+```
+#comparing the effects of regularisation
+def get_weights_df(model, feat, col_name):
+  #this function returns the weight of every feature
+  weights = pd.Series(model.coef_, feat.columns).sort_values()
+  weights_df = pd.DataFrame(weights).reset_index()
+  weights_df.columns = ['Features', col_name]
+  weights_df[col_name].round(3)
+  return weights_df
+
+linear_model_weights = get_weights_df(model, x_train, 'Linear_Model_Weight')
+ridge_weights_df = get_weights_df(ridge_reg, x_train, 'Ridge_Weight')
+lasso_weights_df = get_weights_df(lasso_reg, x_train, 'Lasso_weight')
+
+final_weights = pd.merge(linear_model_weights, ridge_weights_df, on='Features')
+final_weights = pd.merge(final_weights, lasso_weights_df, on='Features')
+```
+- # Feature Selection and Lasso Regression.py
+```
+from sklearn.linear_model import Lasso
+lasso_reg = Lasso(alpha=0.001)
+lasso_reg.fit(x_train, y_train)
+```
+- # Ridge Regression.py
+```
+from sklearn.linear_model import Ridge
+ridge_reg = Ridge(alpha=0.5)
+ridge_reg.fit(x_train, y_train)
+```
 
 
 
