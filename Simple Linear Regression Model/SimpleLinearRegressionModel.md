@@ -59,11 +59,13 @@ Gradient descent is an optimization algorithm that minimizes a cost function by 
 [All Codes](https://gist.github.com/HamoyeHQ/d44bece91e108d0fb6dda16d61559e86)
 
 
-- # Simple Linear Regression.py
+- ### Simple Linear Regression.py
+
+
+
 ```
 
-df=pd.read_excel('https://archive.ics.uci.edu/ml/machine-learning-databases/0024
-                  2/ENB2012_data.xlsx')
+df=pd.read_excel('https://archive.ics.uci.edu/ml/machine-learning-databases/00242/ENB2012_data.xlsx')
 #rename columns
 column_names = {'X1':'Relative_Compactness', 'X2': 'Surface_Area', 
                 'X3':  'Wall_Area', 'X4': 'Roof_Area', 'X5': 'Overall_Height',
