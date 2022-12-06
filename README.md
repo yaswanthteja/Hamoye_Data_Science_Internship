@@ -26,5 +26,6 @@ Detection, Practical Time Series Analysis and a capstone project.
 
 - [Project](https://github.com/yaswanthteja/HDSC_Predicting_Energy_Efficiency_of_Buildings)
 
+# Stage C
 
 
