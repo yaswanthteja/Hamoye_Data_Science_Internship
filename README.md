@@ -28,4 +28,4 @@ Detection, Practical Time Series Analysis and a capstone project.
 
 # Stage C
 
-
+Machine Learning: Classification - Managing the Quality Metric of Global Ecological Footprint
