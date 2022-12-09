@@ -29,3 +29,7 @@ Detection, Practical Time Series Analysis and a capstone project.
 # Stage C
 
 Machine Learning: Classification - Managing the Quality Metric of Global Ecological Footprint
+
+- [Linear Classification and Logistic Regression](https://github.com/yaswanthteja/Hamoye_Data_Science_Internship/tree/main/Linear_Classification_and_Logistic_Regression)
+
+
