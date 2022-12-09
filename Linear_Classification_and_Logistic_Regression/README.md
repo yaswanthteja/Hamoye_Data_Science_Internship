@@ -4,7 +4,7 @@ In machine learning, classification is a supervised method of segmenting data po
 
   All codes used in this lesson can be found [here](https://gist.github.com/HamoyeHQ/94d52ad113d1eac80d073a4affb0a490).  
 
-
+```
 
 import pandas as pd
 
@@ -102,7 +102,7 @@ LogisticRegression(C=1.0, class_weight=None, dual=False, fit_intercept=True,
                    random_state=None, solver='lbfgs', tol=0.0001, verbose=0,
                    warm_start=False)
 
-
+  ```
 
 
 - [Gentle Introduction ](https://github.com/yaswanthteja/Hamoye_Data_Science_Internship/blob/main/Linear_Classification_and_Logistic_Regression/Gentle_Introduction.md)
