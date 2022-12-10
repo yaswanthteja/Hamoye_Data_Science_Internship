@@ -1,4 +1,16 @@
+To avoid running into error, run the codes in this pattern
 
+- confusion matrix
+- cross validation
+- kfold
+- stratified k fold
+- leave out one
+- accuracy
+- precision
+- recall
+- f1 score
+
+[complete Code]()
 
 
 # Cross-validation and accuracy
