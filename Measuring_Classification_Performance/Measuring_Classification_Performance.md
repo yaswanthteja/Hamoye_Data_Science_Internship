@@ -1,3 +1,7 @@
+
+In this lesson, you will learn about cross validation techniques used by data scientist to avoid overfitting and enable generalization.
+- [code](https://gist.github.com/HamoyeHQ/bf8f7062e2acbaa48dc94993e8487b3d)
+
 To avoid running into error, run the codes in this pattern
 
 - confusion matrix
