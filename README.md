@@ -31,5 +31,5 @@ Detection, Practical Time Series Analysis and a capstone project.
 Machine Learning: Classification - Managing the Quality Metric of Global Ecological Footprint
 
 - [Linear Classification and Logistic Regression](https://github.com/yaswanthteja/Hamoye_Data_Science_Internship/tree/main/Linear_Classification_and_Logistic_Regression)
-
+- [Measuring_Classification_Performance](https://github.com/yaswanthteja/Hamoye_Data_Science_Internship/blob/main/Measuring_Classification_Performance/Measuring_Classification_Performance.md) *
 
