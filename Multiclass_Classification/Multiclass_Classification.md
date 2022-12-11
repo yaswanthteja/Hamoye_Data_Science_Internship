@@ -1,4 +1,8 @@
 # Multiclass Classification
+
+In this lesson, you will learn how to deal with more than two classes where an instance is classified into a single class.
+
+
 ## Multilabel and Multiclass classification
 
 Multiclass classification deals with more than two classes where an instance is classified into a single class. For example, given a dataset with a set of features that describe the weather such that the classes are sunny, rainy and windy, a multiclass classification task will only give a single class as the result. In contrast, multilabel classification classifies an instance into a set of target labels. Articles and movies are examples where this can apply. An article can discuss a single topic but can also be about politics, religion, education and many more while movies are commonly tagged to multiple genres such as comedy, adventure, action.
