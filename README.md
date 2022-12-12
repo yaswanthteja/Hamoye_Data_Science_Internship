@@ -34,3 +34,4 @@ Machine Learning: Classification - Managing the Quality Metric of Global Ecologi
 - [Measuring_Classification_Performance](https://github.com/yaswanthteja/Hamoye_Data_Science_Internship/blob/main/Measuring_Classification_Performance/Measuring_Classification_Performance.md) *
 - [Multiclass_Classification](https://github.com/yaswanthteja/Hamoye_Data_Science_Internship/blob/main/Multiclass_Classification/Multiclass_Classification.md)
 - [Tree-Based Methods and The Support Vector Machine](https://github.com/yaswanthteja/Hamoye_Data_Science_Internship/blob/main/Tree-Based_Methods_and_The_Support_Vector_Machine/Tree-Based_Methods_and_The_Support_Vector_Machine.md)
+- [Ensemble_Methods](https://github.com/yaswanthteja/Hamoye_Data_Science_Internship/blob/main/Ensemble_Methods/Ensemble_Methods.md)
