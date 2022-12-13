@@ -35,3 +35,4 @@ Machine Learning: Classification - Managing the Quality Metric of Global Ecologi
 - [Multiclass_Classification](https://github.com/yaswanthteja/Hamoye_Data_Science_Internship/blob/main/Multiclass_Classification/Multiclass_Classification.md)
 - [Tree-Based Methods and The Support Vector Machine](https://github.com/yaswanthteja/Hamoye_Data_Science_Internship/blob/main/Tree-Based_Methods_and_The_Support_Vector_Machine/Tree-Based_Methods_and_The_Support_Vector_Machine.md)
 - [Ensemble_Methods](https://github.com/yaswanthteja/Hamoye_Data_Science_Internship/blob/main/Ensemble_Methods/Ensemble_Methods.md)
+- [Project](https://github.com/yaswanthteja/HDSC_Machine-Learning_Classification_Managing_the_Quality_Metric_of_Global_Ecological_Footprint/blob/main/StabilityPredicting.ipynb)
