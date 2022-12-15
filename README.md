@@ -28,7 +28,7 @@ Detection, Practical Time Series Analysis and a capstone project.
 
 # Stage C
 
-Machine Learning: Classification - Managing the Quality Metric of Global Ecological Footprint
+[Machine Learning: Classification - Managing the Quality Metric of Global Ecological Footprint](https://github.com/yaswanthteja/HDSC_Machine-Learning_Classification_Managing_the_Quality_Metric_of_Global_Ecological_Footprint)
 
 - [Linear Classification and Logistic Regression](https://github.com/yaswanthteja/Hamoye_Data_Science_Internship/tree/main/Linear_Classification_and_Logistic_Regression)
 - [Measuring_Classification_Performance](https://github.com/yaswanthteja/Hamoye_Data_Science_Internship/blob/main/Measuring_Classification_Performance/Measuring_Classification_Performance.md) *
