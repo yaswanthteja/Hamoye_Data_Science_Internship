@@ -37,3 +37,6 @@ Detection, Practical Time Series Analysis and a capstone project.
 - [Ensemble_Methods](https://github.com/yaswanthteja/Hamoye_Data_Science_Internship/blob/main/Ensemble_Methods/Ensemble_Methods.md)
 - [Project](https://github.com/yaswanthteja/HDSC_Machine-Learning_Classification_Managing_the_Quality_Metric_of_Global_Ecological_Footprint/blob/main/StabilityPredicting.ipynb)
 - [Premier Project(Football Events)](https://github.com/yaswanthteja/Football_Event_Analysis/)
+
+
+# Stage D
