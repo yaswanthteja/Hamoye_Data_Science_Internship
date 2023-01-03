@@ -40,3 +40,4 @@ Detection, Practical Time Series Analysis and a capstone project.
 
 
 # Stage D
+[Neural Network, Image Recognition & Object Detection]()
