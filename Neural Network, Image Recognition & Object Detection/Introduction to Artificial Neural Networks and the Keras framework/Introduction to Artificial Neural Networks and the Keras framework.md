@@ -5,6 +5,7 @@ Introduction to Keras and Tensorflow with Python
 Keras is a deep learning API written in Python that runs on top of TensorFlow. It is quite popular among deep learning users because of its ease of use. TensorFlow is an end-to-end open-source deep learning framework developed and maintained by Google. Similar to Numpy, TensorFlow allows for mathematical computations and manipulation between numerical tensors, runs on CPUs, GPUs, and TPUs. Keras was incorporated in TensorFlow 2.0 (the recent version) as tf.keras (high-level API) and can run on the aforementioned hardwares. TensorFlow also allows for low-level operations with the TensorFlow Core API. 
 
 We will use the MNIST dataset to explain the concepts in the module. MNIST is a large database of handwritten digits commonly used in training and testing image processing systems. The image dimensions are 28x28 numpy arrays. Now let us import the images and prepare our dataset.
+[code](https://gist.github.com/HamoyeHQ/18efeb9bfe8d9b7ac0ef324ca0198087)
 
 P.S: it is advisable to use Google Colab to run all the code for the content and quiz in this module.
 
