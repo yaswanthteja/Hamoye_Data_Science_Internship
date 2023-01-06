@@ -1,7 +1,8 @@
-Object Detection - Multi-Object Classification plus Localization
+### Object Detection - Multi-Object Classification plus Localization
+
 In this lesson, you will learn about object detection, and some commonly used object detection algorithms.
 
-Motivations and Terms
+### Motivations and Terms
 
 In object localisation tasks, the location of objects in images are identified and put in boundary boxes while classification assigns a label to each image. Object detection often referred to as object recognition  involves a combination of object classification and object localisation such that different objects in an image are found and classified. In object detection, the output is variable in length because the number of objects detected in different images may change. Object detection can be used for face detection as seen in some cameras, counting, visual search engines such as that of Pinterest, aerial image analysis. A problem with obtaining a variable number of objects is that it becomes difficult to obtain fixed-sized vectors; however, sliding windows computed convolutionally  are commonly used to resolve this. 
 
