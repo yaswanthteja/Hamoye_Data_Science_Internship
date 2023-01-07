@@ -2,8 +2,8 @@
 
 
 Data Science
-The data science track includes multiple carefully crafted courses. These include (i)
-Introduction to Python for Machine Learning, Regression in Machine Learning,
+The data science track includes multiple carefully crafted courses. These include
+(i) Introduction to Python for Machine Learning,Regression in Machine Learning,
 Classification in Machine Learning, Neural Network, Image Recognition and Object
 Detection, Practical Time Series Analysis and a capstone project.
 
