@@ -49,4 +49,4 @@ Detection, Practical Time Series Analysis and a capstone project.
 - [Introduction to Large Scale Image Recognition Architecture](https://github.com/yaswanthteja/Hamoye_Data_Science_Internship/blob/main/Neural%20Network%2C%20Image%20Recognition%20%26%20Object%20Detection/Introduction%20to%20Large%20Scale%20Image%20Recognition%20Architecture/Introduction%20to%20Large%20Scale%20Image%20Recognition%20Architecture.md)
 
 - [Object Detection - Multi-Object Classification plus Localization](https://github.com/yaswanthteja/Hamoye_Data_Science_Internship/blob/main/Neural%20Network,%20Image%20Recognition%20&%20Object%20Detection/Object%20Detection%20-%20Multi-Object%20Classification%20plus%20Localization/Object%20Detection%20-%20Multi-Object%20Classification%20plus%20Localization.md)
-- [Project]()
+- [Project](https://github.com/yaswanthteja/Hamoye_Data_Science_Internship/blob/main/Neural%20Network%2C%20Image%20Recognition%20%26%20Object%20Detection/amazon-from-space.ipynb)
