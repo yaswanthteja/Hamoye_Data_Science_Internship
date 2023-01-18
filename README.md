@@ -56,4 +56,6 @@ Detection, Practical Time Series Analysis and a capstone project.
 
 - [Practical Time Series Analysis & Forecast](https://github.com/yaswanthteja/Hamoye_Data_Science_Internship/tree/main/Practical%20Time%20Series%20Analysis%20%26%20Forecast)
 
-- [Basics of Time Series]()
+- [Basics of Time Series](https://github.com/yaswanthteja/Hamoye_Data_Science_Internship/tree/main/Practical%20Time%20Series%20Analysis%20%26%20Forecast/Basics%20of%20Time%20Series)
+
+
