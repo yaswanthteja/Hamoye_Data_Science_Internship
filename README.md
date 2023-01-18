@@ -50,3 +50,8 @@ Detection, Practical Time Series Analysis and a capstone project.
 
 - [Object Detection - Multi-Object Classification plus Localization](https://github.com/yaswanthteja/Hamoye_Data_Science_Internship/blob/main/Neural%20Network,%20Image%20Recognition%20&%20Object%20Detection/Object%20Detection%20-%20Multi-Object%20Classification%20plus%20Localization/Object%20Detection%20-%20Multi-Object%20Classification%20plus%20Localization.md)
 - [Project](https://github.com/yaswanthteja/Hamoye_Data_Science_Internship/blob/main/Neural%20Network%2C%20Image%20Recognition%20%26%20Object%20Detection/amazon-from-space.ipynb)
+
+
+# Stage E
+
+- [Practical Time Series Analysis & Forecast]()
