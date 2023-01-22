@@ -58,4 +58,10 @@ Detection, Practical Time Series Analysis and a capstone project.
 
 - [Basics of Time Series](https://github.com/yaswanthteja/Hamoye_Data_Science_Internship/tree/main/Practical%20Time%20Series%20Analysis%20%26%20Forecast/Basics%20of%20Time%20Series)
 
+- [Wrangling Time Series Data](https://github.com/yaswanthteja/Hamoye_Data_Science_Internship/tree/main/Practical%20Time%20Series%20Analysis%20%26%20Forecast/Wrangling%20Time%20Series%20Data)
+
+- [Forecasting Performance Measures](https://github.com/yaswanthteja/Hamoye_Data_Science_Internship/tree/main/Practical%20Time%20Series%20Analysis%20%26%20Forecast/Forecasting%20Performance%20Measures)
+
+- [Time Series Forecasting Using Stochastic Models](https://github.com/yaswanthteja/Hamoye_Data_Science_Internship/tree/main/Practical%20Time%20Series%20Analysis%20%26%20Forecast/Time%20Series%20Forecasting%20Using%20Stochastic%20Models)
+- [Time Series at Scale](https://github.com/yaswanthteja/Hamoye_Data_Science_Internship/tree/main/Practical%20Time%20Series%20Analysis%20%26%20Forecast/Time%20Series%20at%20Scale)
 
