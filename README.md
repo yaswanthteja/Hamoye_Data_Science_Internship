@@ -26,6 +26,25 @@ Detection, Practical Time Series Analysis and a capstone project.
 
 - [Project](https://github.com/yaswanthteja/HDSC_Predicting_Energy_Efficiency_of_Buildings)
 
+
+
+
+# Premier Project Phase
+
+- [List Of Projects](https://hamoyehq.medium.com/hdsc-fall-22-real-life-machine-learning-projects-388e5991f17c)
+- Team XGBoost
+    - Topic: Football Events Analysis
+
+     - Project Description
+
+     - A football game generates many more events and it is very important and interesting to take into account the context in which those events were generated. This       dataset should keep sports analytics enthusiasts awake for long hours as the number of questions that can be asked is huge.
+
+
+- [Project - Football Events Analysis](https://github.com/yaswanthteja/Football_Event_Analysis)
+- [Data Set](https://www.kaggle.com/datasets/secareanualin/football-events)
+
+
+
 # Stage C
 
 [Machine Learning: Classification - Managing the Quality Metric of Global Ecological Footprint](https://github.com/yaswanthteja/HDSC_Machine-Learning_Classification_Managing_the_Quality_Metric_of_Global_Ecological_Footprint)
