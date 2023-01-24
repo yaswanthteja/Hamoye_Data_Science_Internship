@@ -88,4 +88,4 @@ Detection, Practical Time Series Analysis and a capstone project.
 
 - [Technical Session1](https://www.youtube.com/watch?v=L_c0QI27L_E)
 - [ Technical Session2](https://github.com/yaswanthteja/Hamoye_Data_Science_Internship/tree/main/low_cost_sensor_caliberation_tutorial)
-   - [Session Video]()
+   - [Session Video](https://www.youtube.com/watch?v=N-wIhma-3NU)
