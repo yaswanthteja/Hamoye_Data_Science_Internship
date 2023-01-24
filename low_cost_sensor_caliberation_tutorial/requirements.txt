@@ -1,0 +1,8 @@
+matplotlib
+numpy
+pandas
+geopandas
+seaborn
+contextily==1.2.0
+scikit-learn
+tqdm
