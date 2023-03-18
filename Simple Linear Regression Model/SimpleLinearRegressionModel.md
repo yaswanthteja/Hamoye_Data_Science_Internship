@@ -8,7 +8,7 @@ Data Source for content:  [Energy efficiency dataset](https://docs.google.com/sp
 
 Data Quiz:  [Appliances energy prediction dataset](https://drive.google.com/file/d/1Eru_UHVc3WLHVveC9Q8K9QUxlzYeHt18/view?usp=share_link)
 
-Simple Linear Regression
+## Simple Linear Regression
 The simple linear regression model.
 
 A simple linear regression model estimates the relationship between two quantitative variables where one is referred to as the independent variable and the other the dependent variable. The independent variable (X) is used to predict and also called the predictor while the predicted variable is referred to as the response variable (Y) (e.g. finding the relationship between the amount of CO2 gas emitted and the number of trees cut down). The value of Y can be obtained from X by finding the line of best fit (regression line) with minimum error for the data points on a scatter plot for both variables. A simple linear regression can be represented as:
