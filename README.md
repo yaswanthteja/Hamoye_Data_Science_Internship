@@ -6,9 +6,9 @@
 [![View My Profile](https://img.shields.io/badge/View-My_Profile-green?logo=GitHub)](https://github.com/yaswanthteja)
 ## Data Science
 The data science track includes multiple carefully crafted courses. These include
-1. Introduction to Python for Machine Learning,Regression in Machine Learning,
-Classification in Machine Learning, Neural Network, Image Recognition and Object
-Detection, Practical Time Series Analysis and a capstone project.
+1. Introduction to Python for Machine Learning, Regression in Machine Learning,
+Classification in Machine Learning, Neural Networks, Image Recognition, and Object
+Detection, Practical Time Series Analysis, and a capstone project.
 
 # Stage A
 - [Introduction To Python For Machine Learning](https://github.com/yaswanthteja/HDSC-Introduction-to-Python-for-machine-learning)
